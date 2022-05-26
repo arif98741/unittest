@@ -1,0 +1,23 @@
+{
+    "name": "administrator/cleancode",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\Cleancode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ariful islam",
+            "email": "arif98741@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+
+    }
+}
